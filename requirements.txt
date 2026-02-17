@@ -1,0 +1,8 @@
+flask
+gunicorn
+numpy
+scipy
+librosa
+soundfile
+noisereduce
+matplotlib
